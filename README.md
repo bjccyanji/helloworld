@@ -1,4 +1,5 @@
-<img src="/img/1_120206222348_2.jpg" alt="二维码" width="50%">
+<img src="/img/1_120206222348_2.jpg" alt="缩略图" width="50%">
+<img src="/img/120120.png" alt="二维码" width="50%">
 ##MaHua是什么?
 一个在线编辑markdown文档的编辑器
 
