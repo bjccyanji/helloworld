@@ -1,4 +1,4 @@
-![mahua](mahua-logo.jpg)
+![hellow](https://cloud.githubusercontent.com/assets/11243798/21806457/5fe63014-d774-11e6-94bd-6dc1b3cc2270.jpg)
 ##MaHua是什么?
 一个在线编辑markdown文档的编辑器
 
